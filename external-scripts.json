@@ -8,5 +8,9 @@
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-principles",
+  "hubot-business-cat",
+  "hubot-victory",
+  "hubot-codinglove"
 ]
